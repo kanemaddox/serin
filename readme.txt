@@ -1,5 +1,5 @@
 === Serin Theme ===
-Contributors: tu-nombre-o-equipo
+Contributors: saims
 Requires at least: 5.0
 Tested up to: 6.7
 Requires PHP: 7.4
@@ -25,7 +25,7 @@ Incluye soporte para bloques, cabecera personalizada, estilos accesibles y compa
 == Credits ==
 * Basado en las guías de desarrollo de WordPress.org.
 * Iconos: Font Awesome 6.4 (https://fontawesome.com)
-* Desarrollado por: Tu nombre o equipo
+* Desarrollado por: saims
 
 == License ==
 Este tema está licenciado bajo la GPL v2 o posterior.
